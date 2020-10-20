@@ -1,0 +1,39 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "availabilitySets_vmseries_fw_as_name": {
+            "value": null
+        },
+        "virtualMachines_vmseries_fw_vm1_name": {
+            "value": null
+        },
+        "routeTables_untrust_route_table_name": {
+            "value": null
+        },
+        "networkInterfaces_vmseries_fw_vm1_nic0_name": {
+            "value": null
+        },
+        "networkInterfaces_vmseries_fw_vm1_nic1_name": {
+            "value": null
+        },
+        "networkInterfaces_vmseries_fw_vm1_nic2_name": {
+            "value": null
+        },
+        "virtualNetworks_zenefits_vmseries_vnet_name": {
+            "value": null
+        },
+        "networkSecurityGroups_vmseries_nsg_data_name": {
+            "value": null
+        },
+        "networkSecurityGroups_vmseries_nsg_mgmt_name": {
+            "value": null
+        },
+        "publicIPAddresses_vmseries_fw_vm1_nic0_pip_name": {
+            "value": null
+        },
+        "publicIPAddresses_vmseries_fw_vm1_nic1_pip_name": {
+            "value": null
+        }
+    }
+}
